@@ -1,4 +1,4 @@
-[*] Analyzing passwords in [/home/tyr/Applications/Password/CrackedNoHash.txt]
+[*] Analyzing passwords in [/home/<user>/Applications/Password/CrackedNoHash.txt]
 [*] Saving advanced masks and occurrences to [custom1.hcmask]
 [+] Analyzing 100% (21605503/21605503) of passwords
     NOTE: Statistics below is relative to the number of analyzed passwords, not total number of passwords
